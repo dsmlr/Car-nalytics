@@ -1,4 +1,13 @@
-# Car part segmentation and brand detection deployment Web app and api
+# Car-nalytics : A System for Car Parts Segmentation and Brand Recognition
+
+Original Section <p>
+Country: Thailand <p>
+University/Institute: King Mongkut's Institute of Technology Ladkrabang <p>
+
+Members:	1. Nonthapaht Taspan 2. Bukorree Madthing
+
+Mentor: 	Kitsuchart Pasupa
+
 ## Setup Projects
 1. Clone this repository `git clone https://github.com/film8844/car-part-segmentation-deployment-api.git`
 1. Install environments package setup. 
